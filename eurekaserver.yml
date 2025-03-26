@@ -8,5 +8,5 @@ eureka:
     fetchRegistry: false
     registerWithEureka: false
     serviceUrl:
-      http://eureka-server:8089/eureka/
+      http://eurekaserver:8089/eureka/
     
