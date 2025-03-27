@@ -1,5 +1,5 @@
 server:
-  port: 8089
+  port: 9091
 
 eureka:
   instance:
@@ -8,5 +8,5 @@ eureka:
     fetchRegistry: false
     registerWithEureka: false
     serviceUrl:
-      http://eurekaserver:8089/eureka/
+      http://eurekaserver:9091/eureka/
     
